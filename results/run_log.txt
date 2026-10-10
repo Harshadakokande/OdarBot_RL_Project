@@ -1,0 +1,4 @@
+OdorBot run_id=results
+Caution: simplified educational environment, not a fluid-dynamics simulator.
+Training seeds: [7]
+Evaluation seeds: [7, 11, 17, 23, 29, 31, 37, 41, 43, 47, 53, 59]

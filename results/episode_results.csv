@@ -1,0 +1,25 @@
+method,training_seed,evaluation_seed,evaluation_condition,episode_index,success,episode_steps,path_length,wind_change_observed,wind_change_step,episode_ended_before_wind_change,first_odor_reacquisition_step,first_odor_reacquisition_time,tracking_recovery_step,tracking_recovery_time,sustained_odor_detection_proxy_step,sustained_odor_detection_proxy_time,recovery_metric_available,recovery_observed,recovery_not_observed,pre_change_odor_detection_rate,post_change_odor_detection_rate
+Current observation,7,7,wind_change,0,0,40,4,True,15,False,15,0,,,,,True,False,True,0.07142857142857142,0.11538461538461539
+Current observation,7,11,wind_change,1,0,40,7,True,15,False,16,1,,,,,True,False,True,0.0,0.11538461538461539
+Current observation,7,17,wind_change,2,0,40,10,True,15,False,18,3,,,,,True,False,True,0.0,0.07692307692307693
+Current observation,7,23,wind_change,3,0,40,1,True,15,False,15,0,16,1,16,1,True,True,False,0.21428571428571427,0.5
+Current observation,7,29,wind_change,4,0,40,4,True,15,False,17,2,,,,,True,False,True,0.07142857142857142,0.038461538461538464
+Current observation,7,31,wind_change,5,0,40,4,True,15,False,20,5,,,,,True,False,True,0.42857142857142855,0.11538461538461539
+Current observation,7,37,wind_change,6,0,40,6,True,15,False,34,19,,,,,True,False,True,0.07142857142857142,0.038461538461538464
+Current observation,7,41,wind_change,7,0,40,18,True,15,False,17,2,35,20,35,20,True,True,False,0.14285714285714285,0.23076923076923078
+Current observation,7,43,wind_change,8,0,40,5,True,15,False,16,1,17,2,17,2,True,True,False,0.0,0.11538461538461539
+Current observation,7,47,wind_change,9,0,40,10,True,15,False,19,4,,,,,True,False,True,0.07142857142857142,0.038461538461538464
+Current observation,7,53,wind_change,10,0,40,7,True,15,False,22,7,,,,,True,False,True,0.21428571428571427,0.038461538461538464
+Current observation,7,59,wind_change,11,0,40,5,True,15,False,15,0,,,,,True,False,True,0.07142857142857142,0.19230769230769232
+History (2 steps),7,7,wind_change,0,0,40,28,True,15,False,15,0,20,5,20,5,True,True,False,0.21428571428571427,0.5384615384615384
+History (2 steps),7,11,wind_change,1,0,40,18,True,15,False,16,1,,,,,True,False,True,0.07142857142857142,0.11538461538461539
+History (2 steps),7,17,wind_change,2,0,40,12,True,15,False,18,3,,,,,True,False,True,0.07142857142857142,0.11538461538461539
+History (2 steps),7,23,wind_change,3,1,18,13,True,15,False,15,0,16,1,16,1,True,True,False,0.2857142857142857,0.5
+History (2 steps),7,29,wind_change,4,0,40,17,True,15,False,17,2,,,,,True,False,True,0.21428571428571427,0.07692307692307693
+History (2 steps),7,31,wind_change,5,1,2,2,False,,True,,,,,,,False,False,False,0.5,nan
+History (2 steps),7,37,wind_change,6,0,40,22,True,15,False,34,19,,,,,True,False,True,0.14285714285714285,0.038461538461538464
+History (2 steps),7,41,wind_change,7,0,40,9,True,15,False,17,2,,,,,True,False,True,0.14285714285714285,0.15384615384615385
+History (2 steps),7,43,wind_change,8,0,40,12,True,15,False,16,1,17,2,17,2,True,True,False,0.0,0.11538461538461539
+History (2 steps),7,47,wind_change,9,0,40,7,True,15,False,19,4,,,,,True,False,True,0.14285714285714285,0.038461538461538464
+History (2 steps),7,53,wind_change,10,0,40,15,True,15,False,22,7,39,24,39,24,True,True,False,0.35714285714285715,0.11538461538461539
+History (2 steps),7,59,wind_change,11,0,40,19,True,15,False,15,0,,,,,True,False,True,0.07142857142857142,0.19230769230769232
